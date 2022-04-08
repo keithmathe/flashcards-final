@@ -1,14 +1,13 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
 ## Lab 4
 
 ### App Description
-`TODO://` This version of our app shows animations when transitioning from cards and also displays blue or greyed out navigation buttons.
+ This version of our app shows animations when transitioning from cards and also displays blue or greyed out navigation buttons.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+
+<img src="https://github.com/keithmathe/flashcards-final/blob/master/flashcards-lab4.gif" width=200><br>
 
 
 ## Required
@@ -23,7 +22,7 @@
 - [ ] User should see all views properly layout when using the app on a phone of different sizes
 - [ ] Correct answer in multiple choice should be random
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
 
 ## Lab 3
 
@@ -33,7 +32,7 @@
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
     
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/keithmathe/flashcards-final/blob/master/flashcards-lab4.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
